@@ -48,4 +48,4 @@ Hi! I'm Jiyoung :blush:
 
 ### 📫 Contact
 <a href="mailto:gyjeong021@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:gzero21@naver.com" target="_blank"><img src="https://img.shields.io/badge/NaverMail-03cf5d.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:gzero21@naver.com" target="_blank"><img src="https://img.shields.io/badge/NaverMail-03C75A.svg?style=flat-square&logo=Naver&logoColor=white"/></a>
