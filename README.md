@@ -35,9 +35,9 @@ Hi! I'm Jiyoung :blush:
 ---
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=gyjeong021&show_icons=true&theme=shadow_red" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=gyjeong021&show_icons=true&theme=graywhite" width="400">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyjeong021&layout=compact&show_icons=true&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyjeong021&layout=compact&show_icons=true&theme=graywhite)
 
 
 
