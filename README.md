@@ -4,7 +4,6 @@ Hi! I'm Jiyoung :blush:
 
 ### :computer: Skills
 #### :sparkles: Main :sparkles:
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 
 
