@@ -3,15 +3,25 @@ Hi! I'm Jiyoung :blush:
 ---
 
 ### :computer: Skills
-#### :sparkles: Main :sparkles:
+#### :bookmark: Back
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 
+
+<br/>
+
+#### :bookmark: Front
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=61DAFB">
+
+
+<br/>
 
 #### :bookmark: Languages
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
@@ -22,11 +32,6 @@ Hi! I'm Jiyoung :blush:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
 
-#### :wavy_dash: Others
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=61DAFB">
 
 
 <br/>
