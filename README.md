@@ -34,7 +34,6 @@ Hi! I'm Jiyoung :blush:
 ---
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=gyjeong021&show_icons=true&theme=graywhite" width="400">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyjeong021&layout=compact&show_icons=true&theme=graywhite)
 
@@ -48,3 +47,4 @@ Hi! I'm Jiyoung :blush:
 ### 📫 Contact
 <a href="mailto:gyjeong021@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:gzero21@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A.svg?style=flat-square&logo=Naver&logoColor=white"/></a>
+
