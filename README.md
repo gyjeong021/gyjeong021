@@ -34,7 +34,6 @@ Hi! I'm Jiyoung :blush:
 ---
 
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyjeong021&layout=compact&show_icons=true&theme=graywhite)
 
 
