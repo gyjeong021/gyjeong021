@@ -23,8 +23,8 @@ Hi! I'm Jiyoung :blush:
 
 
 #### :wavy_dash: Others
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 
 <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=61DAFB">
 
